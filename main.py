@@ -1,5 +1,6 @@
-
 from fastapi import FastAPI
+
+import ticker_hystorical_name
 
 app = FastAPI()
 
